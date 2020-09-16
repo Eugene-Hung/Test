@@ -1,2 +1,2 @@
 # Test
-Just a test for git
+Just a test of git
