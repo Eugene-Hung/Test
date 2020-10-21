@@ -1,4 +1,9 @@
+#include "eugene_test.h"
 
-int a = 0;
-printf("hello world");
 
+int main()
+{
+    int a = 0;
+    printf("hello world \n");
+    
+}
