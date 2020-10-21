@@ -3,7 +3,9 @@
 
 int main()
 {
-    int a = 0;
-    printf("hello world \n");
+    int *a;
+    int short *b;
+    printf("a = %x \n *a = %x",sizeof(b),sizeof(*b));
+    system("pause");
     
 }
